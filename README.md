@@ -12,4 +12,4 @@ langkah-langkah implementasi
 5. buka functions.php masukkan server dari sqlserver
 6. jalankan file loginRegistrasi.php menggunakan xampp atau laragon di web browser anda
 
-#selamat mencoba jangan lupa awali harimu dengan berbuat kebaikan
+# selamat mencoba jangan lupa awali harimu dengan berbuat kebaikan
